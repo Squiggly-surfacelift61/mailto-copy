@@ -1,0 +1,7 @@
+{
+  "name": "fk-links",
+  "private": true,
+  "scripts": {
+    "build": "./scripts/build.sh"
+  }
+}
